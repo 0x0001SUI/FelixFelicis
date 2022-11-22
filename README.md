@@ -90,4 +90,4 @@ And three view modifiers, respectively:
 - **`felicisBinding(_:_:)`** — to add a binding to the environment
 - **`felicisObject(_:)`** — to add an observable object to the environment
 
-The package is well documented, so if you have any additional questions, you can build documentation in Xcode.
+The package is well documented, so if you have any additional questions, you can build documentation in Xcode. You can also [explore](https://github.com/0x0001SUI/NotesApp) a simple example project.
